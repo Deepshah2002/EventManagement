@@ -5,19 +5,14 @@ Event Handler
 Features
 - Event Creation
 - Event Listing
-- Event Reminders
 - Event Editing and Deletion
-- Search and Filtering
+- Search
 
-Optional
+Future Enhancements
 - Integration with Calendar Apps
 - Categories and Labels
 - User Authentication and Personalization
 - Recurring Events
-
-Optimisation
-- If user enters time in different format other than am/pm or 24-hour.
-
 
 Methods
 - addEvent
