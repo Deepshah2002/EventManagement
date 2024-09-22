@@ -589,7 +589,7 @@ public class EventManager {
                 case 4 -> e.findEvent();
                 case 5 -> e.displayEvents();
                 case 6 -> System.exit(0);
-                default -> System.out.println("Kai Po Che.");
+                default -> System.out.println("Enter valid choice.");
             }
         }
     }
